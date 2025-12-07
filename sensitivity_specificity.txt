@@ -1,0 +1,11 @@
+Sensitivity and Specificity for Titanic logistic regression
+
+Before balancing:
+Accuracy: 0.7622
+Sensitivity (TPR): 0.7414
+Specificity (TNR): 0.7765
+
+After balancing:
+Accuracy: 0.7343
+Sensitivity (TPR): 0.7759
+Specificity (TNR): 0.7059
